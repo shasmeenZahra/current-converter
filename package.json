@@ -1,0 +1,23 @@
+{
+  "name": "shasmeen-currency-converter",
+  "version": "1.0.0",
+  "discription": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "shasmeen-currency-converter": "shasmeen-currency-converter"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "description": ""
+}
